@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 I like cats.
-
-- 📫 Contact: `MeerBiene#7060` on discord
-
 <!--
 **MeerBiene/MeerBiene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
