@@ -3,7 +3,9 @@
 -->
 
 <p align="center">
+  <a href="https://github.com/MeerBiene" class="rich-diff-level-one">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meerbiene&layout=compact&color=black)](https://github.com/anuraghazra/github-readme-stats)
+  </a>
 </p>
 
 <p align="center">
