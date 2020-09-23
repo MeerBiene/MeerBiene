@@ -13,9 +13,6 @@
     <img src="https://badges.pufler.dev/repos/MeerBiene?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/MeerBiene?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/commits/monthly/MeerBiene?style=flat-square&color=black&logo=github">
   </a>
 
