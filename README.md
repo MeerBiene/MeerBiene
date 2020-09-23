@@ -2,8 +2,9 @@
 [![MeerBiene's github stats](https://github-readme-stats.vercel.app/api?username=meerbiene&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meerbiene&layout=compact&color=black)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 
 <p align="center">
   <a href="https://badges.pufler.dev">
