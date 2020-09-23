@@ -2,19 +2,20 @@
 [![MeerBiene's github stats](https://github-readme-stats.vercel.app/api?username=meerbiene&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meerbiene&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meerbiene&layout=compact&color=black)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<p align="center">
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/MeerBiene/MeerBiene?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/MeerBiene/MeerBiene?style=flat-square&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/MeerBiene?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/MeerBiene?style=flat-square&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/MeerBiene?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/monthly/MeerBiene?style=flat-square&logo=github">
   </a>
+  </p>
 
 
 
