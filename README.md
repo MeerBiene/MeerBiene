@@ -18,6 +18,9 @@
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/commits/monthly/MeerBiene?style=flat-square&logo=github">
   </a>
+  
+  ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeerBiene&theme=dark)
+  
   </p>
 
 
