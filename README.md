@@ -4,7 +4,9 @@
 
 <p align="center">
   <a href="https://github.com/MeerBiene" class="rich-diff-level-one">
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meerbiene&layout=compact&show_icons=true&theme=dark">
+-->
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeerBiene&theme=dark">
 
@@ -29,8 +31,12 @@
 
 
 
+Hello there,
 
-
+- 🔭 I’m currently working on my [TODOBOT for Discord](https://github.com/MeerBiene/TODOBOT) (also looking for contributors)
+- 🌱 I’m currently learning `Go` 
+- 👯 I’m looking to collaborate on everything that listens to port 80/443
+- 😄 Pronouns: [he/him]
 
 <!--
 **MeerBiene/MeerBiene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
