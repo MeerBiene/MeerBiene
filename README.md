@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/MeerBiene" class="rich-diff-level-one">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meerbiene&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meerbiene&layout=compact&show_icons=true&theme=dark">
+<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeerBiene&theme=dark">
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeerBiene&theme=dark)
+
 
 </a>
 </p>
