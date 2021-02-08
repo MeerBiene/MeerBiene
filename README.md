@@ -13,7 +13,7 @@
 
 </a>
 </p>
-
+<!--
 <p align="center">
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/MeerBiene/MeerBiene?style=flat-square&logo=github">
@@ -28,13 +28,9 @@
   
   
   </p>
-
+-->
 
 <br>
-
-<p align="center"> 
-  👯 I’m looking to collaborate on everything that listens on port 80/443
-</p>
 
 <p align="center"> 
   😄 Pronouns: [he/him]
