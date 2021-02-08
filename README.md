@@ -33,9 +33,12 @@
 <br>
 
 <p align="center"> 
-  👯 I’m looking to collaborate on everything that listens to port 80/443
- </p>
-- 😄 Pronouns: [he/him]
+  👯 I’m looking to collaborate on everything that listens on port 80/443
+</p>
+
+<p align="center"> 
+  😄 Pronouns: [he/him]
+</p>
 
 
 <!--
