@@ -30,17 +30,13 @@
   </p>
 
 
+<br>
 
-<p align="center">
-  <a align="center">
-    
-- 🔭 I’m currently working on my [TODOBOT for Discord](https://github.com/MeerBiene/TODOBOT) (also looking for contributors)
-- 🌱 I’m currently learning `Go` 
-- 👯 I’m looking to collaborate on everything that listens to port 80/443
+<p align="center"> 
+  👯 I’m looking to collaborate on everything that listens to port 80/443
+ </p>
 - 😄 Pronouns: [he/him]
-    
-    </a>
-</p>
+
 
 <!--
 **MeerBiene/MeerBiene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
