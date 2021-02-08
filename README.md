@@ -5,7 +5,10 @@
 <p align="center">
   <a href="https://github.com/MeerBiene" class="rich-diff-level-one">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meerbiene&layout=compact">
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MeerBiene&theme=dark">
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeerBiene&theme=dark)
+
+</a>
 </p>
 
 <p align="center">
@@ -19,7 +22,7 @@
     <img src="https://badges.pufler.dev/commits/monthly/MeerBiene?style=flat-square&logo=github">
   </a>
   
-  ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeerBiene&theme=dark)
+  
   
   </p>
 
