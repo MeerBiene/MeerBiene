@@ -33,10 +33,12 @@
 
 <p align="center">
   <a align="center">
+    
 - 🔭 I’m currently working on my [TODOBOT for Discord](https://github.com/MeerBiene/TODOBOT) (also looking for contributors)
 - 🌱 I’m currently learning `Go` 
 - 👯 I’m looking to collaborate on everything that listens to port 80/443
 - 😄 Pronouns: [he/him]
+    
     </a>
 </p>
 
