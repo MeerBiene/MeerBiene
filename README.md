@@ -33,7 +33,7 @@
 <br>
 
 <p align="center"> 
-  😄 Pronouns: [he/him]
+  🌱 Pronouns: [he/him]
 </p>
 
 
