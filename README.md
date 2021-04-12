@@ -15,7 +15,7 @@
 </p>
 
 
-[![my wakapi stats](https://portainer.buymeanounce.com/api/v1/users/meerbiene/stats/today)]
+[![my wakapi stats](https://portainer.buymeanounce.com/api/v1/users/meerbiene/stats/today)](https://github.com/MeerBiene)
 
 
 <!--
