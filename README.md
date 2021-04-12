@@ -13,6 +13,11 @@
 
 </a>
 </p>
+
+
+[![my wakapi stats](https://portainer.buymeanounce.com/api/v1/users/meerbiene/stats/6)
+
+
 <!--
 <p align="center">
   <a href="https://badges.pufler.dev">
