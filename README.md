@@ -8,14 +8,17 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meerbiene&layout=compact&show_icons=true&theme=dark">
 -->
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MeerBiene&theme=dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MeerBiene&theme=dark" />
+</a>
 
+<a href="https://github.com/muety/wakapi">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=meerbiene&api_domain=wakapi.stlf.me&theme=dark&custom_title=Wakapi%20Weekly%20Statistics" />
 
 </a>
 </p>
 
 
-![my wakapi stats](https://github-readme-stats.vercel.app/api/wakatime?username=meerbiene&api_domain=wakapi.stlf.me&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 
 <!--
