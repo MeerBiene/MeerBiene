@@ -1,7 +1,7 @@
 <h1>About</h1>
 
 
-- 🔭 I’m currently working/collaborating on [TODOBOT](https://github.com/shitcorp/TODOBOT), [x0](https://github.com/x0tf) and [Iconic-Channels](https://github.com/shitcorp/Iconic-Channels). You can find all my discord related stuff here @shitcorp
+- 🔭 I’m currently working/collaborating on [TODOBOT](https://github.com/shitcorp/TODOBOT), [x0](https://github.com/x0tf) and [Iconic-Channels](https://github.com/shitcorp/Iconic-Channels). You can find all my discord related stuff here @[shitcorp](https://github.com/shitcorp/)
 
 - 🌱 Trying to learn Go <img src="go.gif" width="20"/>
 - 👯 I’m looking to collaborate on pretty much anything that involves a REST API
