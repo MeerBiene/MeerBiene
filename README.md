@@ -1,7 +1,7 @@
 <h1>About</h1>
 
 
-- 🔭 I’m currently working/collaborating on [TODOBOT](https://github.com/shitcorp/TODOBOT), [x0](https://github.com/x0tf) and [Iconic-Channels](https://github.com/shitcorp/Iconic-Channels)
+- 🔭 I’m currently working/collaborating on [TODOBOT](https://github.com/shitcorp/TODOBOT), [x0](https://github.com/x0tf) and [Iconic-Channels](https://github.com/shitcorp/Iconic-Channels). You can find all my discord related stuff here @shitcorp
 
 - 🌱 Trying to learn Go <img src="go.gif" width="20"/>
 - 👯 I’m looking to collaborate on pretty much anything that involves a REST API
@@ -25,6 +25,9 @@
 <h1>Metrics</h1>
 <details>
   <summary>Click to see my weekly coding stats!</summary>  
+  
+  <br>
+  
   <p align="center">
   <a href="https://github.com/muety/wakapi">
 
@@ -32,6 +35,9 @@
 
 </a>
 
+<br>
+
+  <img src="./github-metrics.svg" alt="Metrics">
 </p>
 
   <br>
@@ -39,8 +45,7 @@
 </details>
 <br>
 
-  <img src="./github-metrics.svg" alt="Metrics">
-  
+
 # Guestbook
 
 <!--START_SECTION:guestbook-->
