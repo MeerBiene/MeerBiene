@@ -1,18 +1,46 @@
+<h1>About</h1>
 
-<!--
-<p align="center">
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🌱 Trying to learn Python.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working/collaborating on [TODOBOT](https://github.com/shitcorp/TODOBOT), [x0](https://github.com/x0tf) and [Iconic-Channels](https://github.com/shitcorp/Iconic-Channels)
+
+- 🌱 Trying to learn Go <img src="go.gif" width="20"/>
+- 👯 I’m looking to collaborate on pretty much anything that involves a REST API
+- 🤔 I’m looking for help with [TODOBOT](https://github.com/shitcorp/TODOBOT)
+- 💬 Ask me about Infosec, future of programming languages
+- 
+    <details>
+    <summary>📫 How to reach me:</summary>
+      
+      Discord: 686669011601326281 
+      
+      Email
+   
+    </details>
+
+
+- 😄 Pronouns: he/him
+
+<br>
+
+<h1>Metrics</h1>
+<details>
+  <summary>Click to see my weekly coding stats!</summary>  
+  <p align="center">
+  <a href="https://github.com/muety/wakapi">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=meerbiene&api_domain=wakapi.stlf.me&theme=dark&custom_title=Wakapi%20Weekly%20Statistics" />
+
+</a>
+
 </p>
--->
 
+  <br>
+
+</details>
+<br>
+
+  <img src="./github-metrics.svg" alt="Metrics">
+  
 # Guestbook
 
 <!--START_SECTION:guestbook-->
@@ -26,26 +54,6 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 
 
 
-
-<!--
-[![MeerBiene's github stats](https://github-readme-stats.vercel.app/api?username=meerbiene&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<p align="center">
-  <a href="https://github.com/MeerBiene" class="rich-diff-level-one">
-<!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meerbiene&layout=compact&show_icons=true&theme=dark">
--->
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MeerBiene&theme=dark" />
-</a>
-
-<a href="https://github.com/muety/wakapi">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=meerbiene&api_domain=wakapi.stlf.me&theme=dark&custom_title=Wakapi%20Weekly%20Statistics" />
-
-</a>
-</p>
 
 
 
@@ -68,24 +76,3 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 -->
 
 <br>
-
-<p align="center"> 
-  🌱 Pronouns: [he/him]
-</p>
-
-
-<!--
-**MeerBiene/MeerBiene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🌱 Trying to learn Python.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
