@@ -17,9 +17,10 @@
 
 
 
-<!--START_SECTION:guestbook-->
 
+<!--START_SECTION:guestbook-->
 <!--END_SECTION:guestbook-->
+
 
 <p align="center">
 <a href="https://github.com/MeerBiene/MeerBiene/issues/new?title=Guestbook">
