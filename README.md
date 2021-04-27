@@ -13,19 +13,15 @@
 </p>
 -->
 
-<h1 align="center">Guestbook</h1>
-
-
-
-
-
-
-<p align="center">
+# Guestbook
 
 <!--START_SECTION:guestbook-->
 <!--END_SECTION:guestbook-->
 
-</p>
+
+
+
+
 <!--
 [![MeerBiene's github stats](https://github-readme-stats.vercel.app/api?username=meerbiene&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
