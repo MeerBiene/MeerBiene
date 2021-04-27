@@ -18,14 +18,13 @@
 
 
 
-<!--START_SECTION:guestbook-->
-<!--END_SECTION:guestbook-->
 
 
 <p align="center">
-<a href="https://github.com/MeerBiene/MeerBiene/issues/new?title=Guestbook">
-Leave a message in my guestbook
-</a>
+
+<!--START_SECTION:guestbook-->
+<!--END_SECTION:guestbook-->
+
 </p>
 <!--
 [![MeerBiene's github stats](https://github-readme-stats.vercel.app/api?username=meerbiene&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
