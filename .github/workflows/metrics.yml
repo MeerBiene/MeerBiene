@@ -35,3 +35,7 @@ jobs:
           plugin_wakatime_limit: 5
           plugin_wakatime_url: https://wakapi.stlf.me
           plugin_wakatime_user: meerbiene
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 0
