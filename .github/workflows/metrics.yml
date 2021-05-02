@@ -28,4 +28,10 @@ jobs:
           plugin_activity_limit: 5 # Limit to 5 events
           plugin_activity_days: 14 # Keep only events from last 14 days (can be set to 0 to disable limitations)
           plugin_activity_filter: all # Show all events (use table above to filter events types)
-
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKAPI_TOKEN }}
+          plugin_wakatime_days: 30
+          plugin_wakatime_sections: time, projects, projects-graphs, languages-graphs, languages
+          plugin_wakatime_limit: 5
+          plugin_wakatime_url: https://wakapi.stlf.me
+          plugin_wakatime_user: meerbiene

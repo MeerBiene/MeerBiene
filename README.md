@@ -13,7 +13,7 @@
       
       Discord: 686669011601326281 
       
-      Email
+      Email: N/A
    
     </details>
 
