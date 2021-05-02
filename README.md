@@ -25,23 +25,14 @@
 <h1>Metrics</h1>
 <details>
   <summary>Click to see my weekly coding stats!</summary>  
-  
   <br>
-  
   <p align="center">
   <a href="https://github.com/muety/wakapi">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=meerbiene&api_domain=wakapi.stlf.me&theme=dark&custom_title=Wakapi%20Weekly%20Statistics" />
-
-</a>
-
-<br>
-
   <img src="./github-metrics.svg" alt="Metrics">
-</p>
-
+  </a>
   <br>
-
+  </p>
+  <br>
 </details>
 <br>
 
