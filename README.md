@@ -40,8 +40,9 @@
 # Guestbook
 
 <!--START_SECTION:guestbook-->
-<a href="https://github.com/Pukimaa"><img src="https://avatars.githubusercontent.com/u/58347116?u=88677dc54fd5589a7bd95f031f06d4a1b069969d&v=4" height="30"/></a> 
+<a href="https://github.com/boloped"><img src="https://avatars.githubusercontent.com/u/53911231?u=cf0534d0c28698f9a9e57b472634dda9c4fc758f&v=4" height="30"/></a> <a href="https://github.com/Pukimaa"><img src="https://avatars.githubusercontent.com/u/58347116?u=88677dc54fd5589a7bd95f031f06d4a1b069969d&v=4" height="30"/></a>
 
+* **[boloped](https://github.com/boloped) wrote on 5/14/2021:** Hi
 * **[Pukimaa](https://github.com/Pukimaa) wrote on 4/27/2021:** Heya! I am Pukima also working with MeerBiene on Iconic-Channels and I love the way you do things and also you made some awesome shit ^^
 
 Do you like my project or just want to say hi? Feel free to [post](https://github.com/MeerBiene/MeerBiene/issues/new?title=Guestbook) to my guestbook!
