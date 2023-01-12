@@ -40,8 +40,9 @@
 # Guestbook
 
 <!--START_SECTION:guestbook-->
-<a href="https://github.com/MeerBiene"><img src="https://avatars.githubusercontent.com/u/60227302?u=a8e4ea9744fb1d60f6a8708b677c3d8a778706e8&v=4" height="30"/></a>
+<a href="https://github.com/boloped"><img src="https://avatars.githubusercontent.com/u/53911231?u=cf0534d0c28698f9a9e57b472634dda9c4fc758f&v=4" height="30"/></a> <a href="https://github.com/MeerBiene"><img src="https://avatars.githubusercontent.com/u/60227302?u=a8e4ea9744fb1d60f6a8708b677c3d8a778706e8&v=4" height="30"/></a>
 
+* **[boloped](https://github.com/boloped) wrote on 1/12/2023:** Meerbiene is a cool guy. I really like him.
 * **[MeerBiene](https://github.com/MeerBiene) wrote on 1/15/2022:** test
 
 Do you like my project or just want to say hi? Feel free to [post](https://github.com/MeerBiene/MeerBiene/issues/new?title=Guestbook) to my guestbook!
